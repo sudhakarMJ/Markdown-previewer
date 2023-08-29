@@ -18,7 +18,7 @@ const Footer = () => (
     <span>
       <a
         className="Footer-link"
-        href="https://github.com/rmasianjr/markdown-previewer"
+        href="https://www.google.com/"
         target="_blank"
         rel="noopener noreferrer"
       >
