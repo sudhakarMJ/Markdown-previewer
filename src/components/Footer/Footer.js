@@ -11,7 +11,7 @@ const Footer = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Ricardo Masian Jr.
+        Sudhakar.
       </a>
     </span>
     <span> | </span>
