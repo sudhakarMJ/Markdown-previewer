@@ -7,7 +7,7 @@ const Footer = () => (
       Created by:{" "}
       <a
         className="Footer-link"
-        href="https://twitter.com/rmasianjr"
+        href="https://sudhakarmj.github.io/w/"
         target="_blank"
         rel="noopener noreferrer"
       >
